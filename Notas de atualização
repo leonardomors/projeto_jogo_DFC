@@ -1,0 +1,29 @@
+### 
+
+
+#### UPDATES PARA VERSÃO 1.01 ####
+
+- Adicionar efeito de destruiçao dos coronas
+- Adicionar uma tela INICIAL com legendas
+    - Criar layout (feito)
+    - Mapear botoes de inicio / sair
+    - so começar o jogo quando iniciar de fato.
+- Adicionar registro de usuario com records estabelecidos
+- Adicionar ENDGAME com o super corona final.
+- Ajustar placar (pontuações acima de 100 cortadas)
+- Adicionar + variantes após 50 ou 70 pontos
+
+
+
+## Feito:
+
+
+- Randomizar velocidade de máscara/ vacina, entre (1,3).
+- Adicionar som ao pegar itens
+- Criado layout da tela inicial
+- Coronas mais resistentes que precisam de duas doses de vacina para serem eliminados
+- Adicionado sons do jogo
+- Alterar sprite gota de vacina
+- Adicionar agulha na ciringa (ajustado retangulo da imagem)
+- Necessidade de encher a ciringa com potes de doses
+- Vidas extras no formato de mascara descendo na tela
